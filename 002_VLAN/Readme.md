@@ -1,6 +1,6 @@
 # ESERCIZIO CON LE VLAN E IL COLLEGAMENTO ACCESS
 
-## Componenti
+## Scopo e componenti
 
 
-## Realizzazione
+## Realizzazione dell'esercizio
