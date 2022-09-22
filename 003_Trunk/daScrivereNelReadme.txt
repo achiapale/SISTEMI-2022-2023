@@ -1,2 +1,0 @@
-- bisogna anche aggiungere che se da un pc si manda al broadcast ricevono solo i pc della stessa vlan
-- per collegare gli switch metto due cavi perchè ci sono due VLAN (ogni cavo passa una vlan, il quale è un problema se abbiamo tante VLAN
