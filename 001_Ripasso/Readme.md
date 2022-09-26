@@ -1,6 +1,6 @@
 # ESERCIZIO DI RIPASSO IN CISCO PACKET TRACER
 
-## Impostazione dell'esercizio
+## Scopo e componenti utilizzate
 Lo scopo dell'esercizio era quello di creare due reti e farle comunicare attraverso l'utilizzo di un router.
 La prima rete è composta da due pc, con indirizzi 192.168.0.10 e 192.168.0.20;
 la seconda rete, con lo stesso numero di device, è invece costituita dagli indirizzi 192.168.1.10 e 192.168.1.20.
