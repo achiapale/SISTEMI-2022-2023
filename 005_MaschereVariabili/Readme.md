@@ -32,20 +32,20 @@ subnet convertita: 255.255.255.128
 ip: 192.168.0.0/27
 rete: 192.168.0.128
 broadcast: 192.168.0.159
-subnet: 255.255.255.240
+subnet: 255.255.255.224
 
 - SOTTORETE 7.
 16 host -> 2^4 (4 bit)
 ip: 192.168.0.0 /28
 rete: 192.168.0.160
 broadcast: 192.168.0.175
-subnet: 255.255.255.224
+subnet: 255.255.255.240
 
 - SOTTORETE 7.
 16 host -> 2^4 (4 bit)
 ip: 192.168.0.0 /28
 rete: 192.168.0.176
 broadcast: 192.168.0.191
-subnet: 255.255.255.224
+subnet: 255.255.255.240
 
 Svolti tutti i calcoli, posso inserire gli ip e concludere l'esercizio.
